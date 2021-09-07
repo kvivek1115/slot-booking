@@ -56,7 +56,7 @@ group :development, :test do
   gem 'brakeman', :require => false
   gem 'rails_best_practices', '~> 1.19'
   gem 'awesome_print', '~> 1.8'
-  gem 'better_errors', '~> 2.3'
+  gem 'better_errors', '~> 2.8'
 
 end
 
